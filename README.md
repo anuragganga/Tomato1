@@ -32,4 +32,4 @@ Welcome to **Tomato1**, a full-stack food delivery application built using the M
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tomato1.git
+   git clone https://github.com/anuragganga/tomato1.git
